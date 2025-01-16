@@ -3,7 +3,7 @@ const pump = require('pump');
 
 // gulp plugins and utils
 var livereload = require('gulp-livereload');
-var sass = require('gulp-sass')(require('node-sass'));
+var sass = require('gulp-sass')(require('sass'));
 var zip = require('gulp-zip');
 var beeper = require('beeper');
 
@@ -28,7 +28,7 @@ function hbs(done) {
     ], handleError(done));
 }
 
-sass.compiler = require('node-sass');
+sass.compiler = require('sass');
 
 function css(done) {
     pump([
