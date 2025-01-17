@@ -64,7 +64,7 @@ Original template files and design by [@ajlkn](https://twitter.com/ajlkn)
 Copyright (c) 2013-2025 [HTML5 UP](https://htmlup.net) & [Ghost Foundation](https://ghost.org) - This theme is licensed under both the [MIT and Creative Commons Attribution 3.0](LICENSE). Please note that the terms of the Creative Commons license require that you maintain the footer attribution to freely use this theme.
 
 
-# Modifications by jthalliley@gmail.com
+## Modifications by jthalliley@gmail.com
 
 - Upgraded to
   - gulp CLI version: 3.0.0, Local version: 5.0.0
