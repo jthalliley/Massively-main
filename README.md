@@ -71,3 +71,5 @@ Copyright (c) 2013-2025 [HTML5 UP](https://htmlup.net) & [Ghost Foundation](http
   - npm 9.8.1
   - sass 1.83.4
     - `import` is now `use`, etc.
+    - `/` is now `math.div(numerator, denominator)`
+    - Now using built-in sass modules, like `sass:list`, `sass:map`, `sass:meta`, `sass:string`, etc.
