@@ -68,8 +68,9 @@ Copyright (c) 2013-2025 [HTML5 UP](https://htmlup.net) & [Ghost Foundation](http
 
 - Upgraded to
   - gulp CLI version: 3.0.0, Local version: 5.0.0
-  - npm 9.8.1
+  - npm 10.2.4
+  - node 20.11.1
   - sass 1.83.4
     - `import` is now `use`, etc.
     - `/` is now `math.div(numerator, denominator)`
-    - Now using built-in sass modules, like `sass:list`, `sass:map`, `sass:meta`, `sass:string`, etc.
+    - Now using built-in Sass modules, like `sass:list`, `sass:map`, `sass:meta`, `sass:string`, etc.
